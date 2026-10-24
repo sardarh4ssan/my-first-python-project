@@ -197,8 +197,7 @@ s1.display_info()
 class Hassan(Student):
     def method():
         print("i love python") 
-h1=Hassan
-h1.method()
+
 
 
 
